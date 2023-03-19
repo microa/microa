@@ -9,6 +9,6 @@
 </p>
 
 <p>
-  <img  src="https://github-readme-streak-stats.herokuapp.com?user=microa&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" height="190"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=microa&date_format=M%20j%5B%2C%20Y%5D" height="190"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=microa&layout=compact" height="190"/>
 </p>
