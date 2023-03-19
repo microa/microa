@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Binhua</h1>
 <h3 align="center">
   A passionate embedded system engineer from China
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=microa.microa&left_color=green&right_color=red)
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=microa.visitor-badge)
 </h3>
 
 <h3 align="left">Statistics:</h3>
