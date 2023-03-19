@@ -3,7 +3,7 @@
   A passionate embedded system engineer from China
 </h3>
 
-<h3 align="center">
+<align="center">
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=microa.visitor-badge)
 </h3>
 
