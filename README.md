@@ -12,15 +12,11 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=microa&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
-<h3 align="left">Statistics:</h3>
-
 <div align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=microa&layout=compact" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=microa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3 align="left">Languages and Tools::</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -38,27 +34,3 @@
 <a href="https://twitter.com/binhuahuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binhuahuang" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/binhua-huang-471024212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binhua-huang-471024212" height="30" width="40" /></a>
 </p>
-
-
-<!--
-### Hi there 👋
-**microa/microa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=microa)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=microa)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Metrics](https://metrics.lecoq.io/microa?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=microa.visitor-badge)
-
--->
