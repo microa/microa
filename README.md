@@ -10,5 +10,5 @@
 
 <p>
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=microa&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=microa&layout=compact" width="300" height="250"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=microa&layout=compact" height="250"/>
 </p>
