@@ -4,8 +4,8 @@
 </h3>
 
 <p>
-💻 I am currently a passionate embedded system engineer at SIAT as Research Assistant. 
-🌱 My interest areas are IoT/AIoT, Embedded Systems, and Machine Learning.
+💻 I am currently a passionate embedded system engineer at SIAT as Research Assistant. <br>
+🌱 My interest areas are IoT/AIoT, Embedded Systems, and Machine Learning. <br>
 </p>
 
 <p>
