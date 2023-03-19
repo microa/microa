@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Binhua</h1>
 <h3 align="center">
   A passionate embedded system engineer from China
-  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=microa.visitor-badge)
 </h3>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=microa.visitor-badge)
 
 <h3 align="left">Statistics:</h3>
 
