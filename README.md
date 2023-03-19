@@ -1,7 +1,7 @@
-<h3 align="left">Hi 👋, I'm Binhua</h3>
-<h3 align="center">
-  A passionate embedded system engineer from China
-</h3>
+<h3 align="left">Hi 👋, I'm Binhua Huang</h3>
+<p>
+I am a passionate embedded system engineer from China
+</p>
 
 
 <div align="center">
