@@ -4,9 +4,9 @@
 </h3>
 
 <p>
-💻 I am currently a passionate embedded system engineer at SIAT as Research Assistant. <br>
+💻 I am currently a Ph.D student at UC Dublin and a passionate embedded system engineer at SIAT as Research Assistant. <br>
 🌱 My interest areas are IoT/AIoT, Embedded Systems, and Machine Learning. <br> 
-🤔 I’m seeking a Ph.D. position in IoT/AIoT, Embedded Systems, and Machine Learning. Contact me via bh.huang@siat.ac.cn. <br>
+🤔 I’m focused on IoT/AIoT, Embedded Systems, and Machine Learning. Contact me via bh.huang@ieee.org. <br>
 </p>
 
 <p>
