@@ -6,7 +6,7 @@
 <p>
 💻 I am currently a PhD student at UC Dublin and a passionate electronic and computer engineer. <br>
 🌱 My interest areas are Machine Learning, Edge AI, Model Compression, and Hardware Acceleration. <br> 
-🤔 Contact me via bh.huang@ieee.org. <br>
+🤔 Contact me via binhua.huang@ucdconnect.ie. <br>
 </p>
 
 <p>
