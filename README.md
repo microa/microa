@@ -5,7 +5,7 @@
 
 <p>
 💻 I am currently a PhD student at UC Dublin and a passionate electronic and computer engineer. <br>
-🌱 My interest areas are Machine Learning, Edge AI, Model Compression, and Hardware Acceleration. <br> 
+🌱 My interest areas are Computer Vision, Machine Learning, Edge AI. <br> 
 🤔 Contact me via bh.huang@ieee.org. <br>
 </p>
 
