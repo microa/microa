@@ -6,7 +6,7 @@
 <p>
 💻 I am currently a PhD student at UC Dublin and a passionate electronic and computer engineer. <br>
 🌱 My interest areas are Computer Vision, Machine Learning, and AI. <br> 
-🌐 More details about me: https://microa.github.io/
+🌐 More details about me: https://microa.github.io/ <br>
 📧 Contact me via bh.huang@ieee.org. <br>
 </p>
 
